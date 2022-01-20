@@ -1,6 +1,4 @@
-# React Tailwindcss Boilerplate build with Vite
-
-This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
+# Blue Coding - Pair Session
 
 ## What is inside?
 
@@ -19,10 +17,10 @@ This project uses many tools like:
 
 ### Install
 
-Create the project.
+Clone the project.
 
 ```bash
-npx degit joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate my-app
+git clone git@github.com:diorgeneseugenio/blue-coding-pair-session.git
 ```
 
 Access the project directory.
